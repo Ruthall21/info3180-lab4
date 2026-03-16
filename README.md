@@ -1,6 +1,6 @@
-# INFO3180 - Lab 3
+# INFO3180 - Lab 4
 
-This is Lab 3 for Ruth-Ann Allen
+This is Lab 4 for Ruth-Ann Allen
 
 Remember to always create a virtual environment and install the packages in your requirements file
 
